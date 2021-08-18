@@ -60,4 +60,3 @@ steps:
     appType: functionApp
     appName: $(appName)
     package: $(build.artifactstagingdirectory)/$(appName)
- 
